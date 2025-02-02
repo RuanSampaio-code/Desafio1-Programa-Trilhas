@@ -1,5 +1,5 @@
 
-//Codsigo ajsutado para funcionar com node a leitura de numeros
+//funcionar com node para leitura de numeros
 const readline = require('readline');
 
 const rl = readline.createInterface({
